@@ -5,3 +5,4 @@ This is an assignment.
 
 ![CamScanner 02-11-2024 11 28_2_Group 3_SCARA-PRR Variant(with base)](https://github.com/KanFudz/Articulated_G3_Assignment_2024/assets/157698593/2caf57db-5986-42fa-a8d4-247bcac37ba2)
 
+![CamScanner 02-11-2024 11 28_3_Group 3_SCARA-PRR Variant(without base)](https://github.com/KanFudz/Articulated_G3_Assignment_2024/assets/157698593/5c6f5e43-7964-4a31-8f93-c7e95d24ecfa)
