@@ -27,6 +27,6 @@ H2_3.qlim = [0 pi/2];
 H3_4 = Link([0,0,0,0,1,a4+d3]);
 H3_4.qlim = [0 a4+d3];
 
-Sphe = SerialLink([H0_1 H1_2 H2_3 H3_4], 'name', 'Spherical Modern Variant')
+Sphe = SerialLink([H0_1 H1_2 H2_3 H3_4], 'name', 'Spherical Manipulator Modern Variant')
 Sphe.plot([0 0 0 0], 'workspace', [-10 10 -10 10 -8 8])
 Sphe.teach
