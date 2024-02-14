@@ -25,6 +25,6 @@ H1_2.qlim = pi/180*[-90 90];
 H2_3 = Link([0,0,a4,0,0,0]);
 H2_3.qlim = pi/180*[-90 90];
 
-SCARA_PRRVARIANT = SerialLink([H0_1 H1_2 H2_3], 'name', 'SCARA_PRR VARIANT');
+SCARA_PRRVARIANT = SerialLink([H0_1 H1_2 H2_3], 'name', 'SCARA_PRR_VARIANT');
 SCARA_PRRVARIANT.plot([0 0 0], 'workspace', [-15 15 -15 15 -15 15])
 SCARA_PRRVARIANT.teach
