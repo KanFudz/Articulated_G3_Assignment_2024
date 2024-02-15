@@ -1,5 +1,5 @@
 disp('SCARA_PRRVARIANT')
-
+ewrwe
 syms a1 a2 a3 a4 d1
 
 %% Link lengths
