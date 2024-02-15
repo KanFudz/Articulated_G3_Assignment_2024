@@ -1,4 +1,4 @@
-# Articulated_G3_Assignment_2024
+<h1># Articulated_G3_Assignment_2024
 This is an assignment.
 
 1. Group 3_Spherical Manipulator-Modern Variant Kinematic Diagram and Parametric Table
