@@ -1,5 +1,5 @@
 disp('Spherical Manipulator - Modern Variant')
-
+fdfsdfs
 syms a1 a2 a3 a4 d3
 
 %% Link lengths
