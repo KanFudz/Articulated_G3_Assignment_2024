@@ -14,4 +14,4 @@ This is an assignment.
 ![Group 3_Cartesian Manipulator on ceiling](https://github.com/KanFudz/Articulated_G3_Assignment_2024/assets/157698593/beff6706-4411-4e01-9561-c24c8ad45159)
 
 
-#Eyyy
+
